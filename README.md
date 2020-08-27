@@ -7,7 +7,7 @@ Elasticsearch-Logstash-Kibana / Kafka / Spark Streaming 을 활용한 실시간 
 
 - Data Pipeline 구조
 
-![data_pipeline](https://user-images.githubusercontent.com/20104945/91428662-7774b900-e899-11ea-9916-168e1b05cbeb.png)
+![data_pipeline_github](https://user-images.githubusercontent.com/20104945/91434208-7181d680-e89f-11ea-93f3-099f2642bc91.png)
 
 
 
