@@ -48,4 +48,7 @@ Elasticsearch-Logstash-Kibana / Kafka / Spark Streaming 을 활용한 실시간 
 
 
 Data from Korea University KOREAPAS sofo  
-맛집 정보 데이터들과 tag 데이터들의 출처는 고려대학교 교내 커뮤니티 고파스 입니다.
+맛집 정보 데이터들과 tag 데이터들의 출처는 고려대학교 교내 커뮤니티 고파스 입니다.  
+
+![sofo2](https://user-images.githubusercontent.com/20104945/91591441-e9332c80-e997-11ea-8f8a-7b3b49038db4.jpg)
+![sofo1](https://user-images.githubusercontent.com/20104945/91591445-ea645980-e997-11ea-9094-a17d2fe9ab24.jpg)
