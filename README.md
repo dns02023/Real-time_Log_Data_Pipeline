@@ -18,7 +18,7 @@ Elasticsearch-Logstash-Kibana / Kafka / Spark Streaming 을 활용한 실시간 
 - Data Pipeline Flow  
 
 
-1. 개발한 맛집 추천 웹서비스에 사용자가 접속하고, (웹 서버에 개발 내용은 Restaurant_Recsys_Web_server 레포지토리를 참고해주세요.)  
+1. 개발한 맛집 추천 웹서비스에 사용자가 접속하고, (웹 서버 개발 내용은 Restaurant_Recsys_Web_server 레포지토리를 참고해주세요.)  
 
 
 ![메인페이지](https://user-images.githubusercontent.com/20104945/91588177-bcc8e180-e992-11ea-9b95-d5ccdc85cf4c.png)  
